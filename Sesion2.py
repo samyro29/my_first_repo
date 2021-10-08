@@ -1,9 +1,7 @@
 
 def func/(a, b):
-    return a + b + 2
+    return "ciao mondo"
 
 def func2(a, b):
-    return a * b
+    return a / b
 
-def func3(a):
-    return a + 3
